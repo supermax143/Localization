@@ -3,6 +3,21 @@
 ## Overview
 This skill provides comprehensive guidance for managing game localization files, including Excel file structure, CSV conversion, and data management. It covers the complete workflow from adding new translations to converting localization data for game integration.
 
+## ⚠️ CRITICAL RULE
+
+**NEVER edit the CSV file directly!** 
+
+When adding or modifying localizations:
+- **ONLY edit `Localization.xlsx`** - this is the source of truth
+- **CSV files are automatically generated** by running the conversion script
+- **Manual CSV edits will be overwritten** on next conversion
+- **Always run the conversion script** after Excel changes
+
+**Workflow:**
+1. Make changes in `Localization.xlsx`
+2. Run `convert_excel_to_csv.py` or `convert_to_csv.bat`
+3. Use the generated CSV file in your project
+
 ## File Structure
 
 ### Excel File Organization
