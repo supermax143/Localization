@@ -1,0 +1,65 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Convert Excel to CSV",
+            "type": "shell",
+            "command": "python",
+            "args": [
+                "convert_excel_to_csv.py"
+            ],
+            "group": "build",
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false,
+                "panel": "shared",
+                "showReuseMessage": true,
+                "clear": false
+            },
+            "problemMatcher": [],
+            "detail": "Convert Excel localization files to CSV format"
+        },
+        {
+            "label": "Convert BrianSkipper to CSV",
+            "type": "shell",
+            "command": "python",
+            "args": [
+                "convert_excel_to_csv.py",
+                "BrianSkipper.xlsx",
+                "BrianSkipper.csv",
+                "|"
+            ],
+            "group": "build",
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false,
+                "panel": "shared",
+                "showReuseMessage": true,
+                "clear": false
+            },
+            "problemMatcher": [],
+            "detail": "Convert BrianSkipper.xlsx to CSV with pipe separator"
+        },
+        {
+            "label": "Run Batch Converter",
+            "type": "shell",
+            "command": "python",
+            "args": [
+                "run_convert.py"
+            ],
+            "group": "build",
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false,
+                "panel": "shared",
+                "showReuseMessage": true,
+                "clear": false
+            },
+            "problemMatcher": [],
+            "detail": "Run the batch file converter"
+        }
+    ]
+}

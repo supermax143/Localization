@@ -1,0 +1,55 @@
+key|ru|en
+common_no|Нет|No
+common_yes|Да|Yes
+dialog_yes|Да|Yes
+damage_critical|Критический!|Critical!
+damage_head_shot|В Репу!|Head Shot!
+game_no_internet_connection_retry|Нет интернет соединения! Попробовать снова?|No internet connection! Retry?
+game_video_not_seen_retry|Видео не просмотрено! Попробовать снова?|Video was not seen! Retry?
+item_100000_coins_description|добавляет 100000 монет|adds 100000 coins
+item_100000_coins_label|100000 Монет|100000 Coins
+item_20000_coins_description|добавляет 20000 монет|adds 20000 coins
+item_20000_coins_label|20000 Монет|20000 Coins
+item_extra_brain_description|Добавляет дополнительный мозг. Убирает рекламу|Adds extra brain. Removes ads
+item_extra_brain_label|Экстра мозг|Extra Brain
+item_x2_money_description|Удваивает наградные деньги. Убирает рекламу|Doubles reward money. Removes ads
+item_x2_money_label|x2 Монет|x2 Coins
+levelselect_coming_soon|Скоро будет|Comming Soon
+mainmenu_tap_anywhere_to_start|Нажмите по экрану чтобы начать|Tap anywhere to start
+purchase_items_title|Покупка предметов:|Purchase Items:
+settings_move_sensitivity|Чувствительность |Move sensitivity
+settings_music_volume|Громкость музыки|Music volume
+settings_sound_volume|Громкость звуков|Sound volume
+shop_alert|Внимание|Alert
+shop_buy|Купить|Buy
+shop_buy_more_money|Купить больше монет?|Buy more coins?
+shop_item_already_bought|Предмет уже куплен!|Item Already bought!
+shop_level|Уровень: |Level: 
+shop_low_coins|Мало монет|Low coins
+shop_price|Цена: |Price: 
+shop_select|Выбрать|Select
+shop_upgrade|Улучшить|Upgrade
+timer_go|ГО!|GO
+tutorial_aim_with_left_side|Цельтесь левой стороной|Aim with left side
+tutorial_dont_let_zombies_take_brain|Не позвольте зомби забрать ваш мозг|Don't let zombies take your brain
+tutorial_shoot_with_right_side|Стреляйте правой стороной|Shoot with right side
+tutorial_desktop_aim_with_mouse|Целься двигая мышку|Aim by moving the mouse
+tutorial_desktop_shoot_with_left_mouse|Стреляй на левую кнопку мыши|Shoot with left mouse button
+tutorial_upgrade_weapon_message|Ща мы их накажем! Давай улучшим оружие|Now we'll punish them! Let's upgrade the weapon
+tutorial_tap_anywhere_to_continue|Нажми чтобы продолжить|Tap anywhere to continue
+weapon_ak47|АК-47|AK-47
+weapon_pistol|Пистолет|Pistol
+weapon_shotgun|Дробовик|Shot Gun
+weapon_uzi|UZI|UZI
+result_window_loose|Провал|Loose
+result_window_win|Победа|Victory
+hint_damage|Урон|Damage
+hint_shoot_speed|Скорость стрельбы|Shoot speed
+hint_reload_time|Время перезарядки|Reload time
+hint_clip_size|Размер магазина|Clip size
+alert_title|Внимание|Alert
+alert_description_no_internet|Нет соединения с интернетом. Повторить?|No internet connection. Retry?
+alert_title_adv_double_reward|Удвоение награды|Double reward
+alert_desription_adv_double_reward|Удвоить награду за просмотр рекламы?|Double your reward by watching ads?
+alert_title_adv_continue_game|Продолжить игру|Continue game
+alert_description_adv_continue_game|Продолжить игру за просмотр рекламы?|Continue the game by watching ads?
