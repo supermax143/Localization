@@ -1,0 +1,41 @@
+key|ru|en
+common_no|Нет|No
+common_hello|привет|hello
+spell_name_fire_ball|Файрбол|Fireball
+spell_description_fire_ball|Огненный шар по области|Fireball area damage
+spell_name_heal|Лечение|Heal
+spell_description_heal|Лечит юнитов в области|Heals units in area
+spell_name_unit_buff|Отвага|Bravery
+spell_description_unit_buff|Повышает скорость и урон юнита|Increases unit speed and damage
+shopitem_name_crystal_for_ads|Кристаллы за просмотр|Crystals for watching
+shopitem_description_crystal_for_ads|Получить 100 кристаллов за просмотр|Get 100 crystals for watching
+shopitem_name_crystal_pack_1|1000 кристаллов|1000 crystals
+shopitem_description_crystal_pack_1|Получить 1000 кристаллов|Get 1000 crystals
+shopitem_name_crystal_pack_2|3300 кристаллов|3300 crystals
+shopitem_description_crystal_pack_2|Получить 3300 кристаллов|Get 3300 crystals
+shopitem_name_crystal_pack_3|10000 кристаллов|10000 crystals
+shopitem_description_crystal_pack_3|Получить 10000 кристаллов|Get 10000 crystals
+shopitem_name_money_pack_1|5M монет|5M coins
+shopitem_description_money_pack_1|Получить 5M монет|Get 5M coins
+shopitem_name_money_pack_2|50M монет|50M coins
+shopitem_description_money_pack_2|Получить 50M монет|Get 50M coins
+shopitem_name_starter_pack_medium|Комплект Новичка|Starter Pack
+shopitem_description_starter_pack_medium|500 кристаллов и 2x награда за|500 crystals and 2x reward for
+shopitem_name_starter_pack_small|Комплект XL|XL Pack
+shopitem_description_starter_pack_small|3000 кристаллов и 3x награда за|3000 crystals and 3x reward for
+epoch1_name|Первобытное племя|Barbarian Tribe
+epoch1_unittier1_name|Дубина|Club
+epoch1_unittier2_name|Праща|Spear
+epoch1_unittier3_name|Громила|Barbarian
+epoch2_name|Рыцарский орден|Knightly Order
+epoch2_unittier1_name|Мечник|Swordsman
+epoch2_unittier2_name|Секира|Axeman
+epoch2_unittier3_name|Латник|Knight
+epoch3_name|Имперский полк|Imperial Legion
+epoch3_unittier1_name|Офицер|Officer
+epoch3_unittier2_name|Стрелок|Sharpshooter
+epoch3_unittier3_name|Пушкарь|Artilleryman
+epoch4_name|Народная армия|People's Army
+epoch4_unittier1_name|Боец|Fighter
+epoch4_unittier2_name|Снайпер|Sniper
+epoch4_unittier3_name|Повар|Cook
