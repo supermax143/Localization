@@ -38,7 +38,7 @@ def convert_excel_to_csv(excel_file=None, csv_file=None, separator=None, sheet_n
         else:
             # Load all sheets and combine them
             wb = pd.ExcelFile(excel_file)
-            print(f"Found sheets: {wb.sheet_names}")s
+            print(f"Found sheets: {wb.sheet_names}")
             
             dfs = []
             for sheet in wb.sheet_names:

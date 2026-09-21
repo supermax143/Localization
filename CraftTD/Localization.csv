@@ -39,3 +39,16 @@ epoch4_name|Народная армия|People's Army
 epoch4_unittier1_name|Боец|Fighter
 epoch4_unittier2_name|Снайпер|Sniper
 epoch4_unittier3_name|Повар|Cook
+attribute_damage|Урон|Damage
+attribute_attackrange|Дальность атаки|Attack Range
+attribute_movespeed|Скорость передвижения|Movement Speed
+attribute_attacktime|Время атаки|Attack Time
+attribute_attackcooldown|Перезарядка атаки|Attack Cooldown
+attribute_detectionrange|Дальность обнаружения|Detection Range
+attribute_detectioninterval|Интервал обнаружения|Detection Interval
+attribute_health|Здоровье|Health
+attribute_unitfoodcost|Стоимость еды (юнит)|Unit Food Cost
+attribute_unitprefab|Префаб юнита|Unit Prefab
+attribute_towerprefab|Префаб башни|Tower Prefab
+attribute_rewardmoney|Награда (деньги)|Reward Money
+attribute_unitunlockcost|Стоимость разблокировки|Unit Unlock Cost
