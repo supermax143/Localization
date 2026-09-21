@@ -1,6 +1,4 @@
 key|ru|en
-common_no|Нет|No
-common_hello|привет|hello
 spell_name_fire_ball|Файрбол|Fireball
 spell_description_fire_ball|Огненный шар по области|Fireball area damage
 spell_name_heal|Лечение|Heal
@@ -84,3 +82,19 @@ epoch4_kill_20_any|Убей 20 врагов|Kill 20 enemies
 epoch4_kill_7_tier3|Убей 7 Повар|Kill 7 Cooks
 epoch4_spawn_10_tier3|Призови 10 Повар|Spawn 10 Cooks
 epoch4_spawn_8_tier2|Призови 8 Снайпер|Spawn 8 Snipers
+upgrade_view_food_production|Производство еды|Food Production
+upgrade_view_tower_health|Здоровье базы|Base Health
+upgrade_view_complete_epoch|Завершить эпоху|Complete Epoch
+pause_window_label|Выйти из игры?|Exit Game?
+pause_window_button_exit|Выйти|Exit
+pause_window_button_resume|Продолжить|Resume
+result_window_label_win|Победа|Victory
+result_window_label_lose|Поражение|Defeat
+result_window_button_close|Закрыть|Close
+alert_not_enougth_crystals_label|Недостаточно кристаллов|Not enough crystals
+alert_not_enougth_crystals_description|Недостаточно кристаллов. Купите ещё|Not enough crystals. Buy more
+common_no|Нет|No
+common_hello|привет|hello
+common_yes|Да|Yes
+common_start|Старт|Start
+common_claim|Получить|Claim
