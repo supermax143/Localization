@@ -52,3 +52,35 @@ attribute_unitprefab|Префаб юнита|Unit Prefab
 attribute_towerprefab|Префаб башни|Tower Prefab
 attribute_rewardmoney|Награда (деньги)|Reward Money
 attribute_unitunlockcost|Стоимость разблокировки|Unit Unlock Cost
+epoch1_damage_200|Нанеси 200 урона|Deal 200 damage
+epoch1_earn_300_gold|Заработай 300 золота|Earn 300 gold
+epoch1_earn_500_gold|Заработай 500 золота|Earn 500 gold
+epoch1_kill_10_any|Убей 10 врагов|Kill 10 enemies
+epoch1_kill_3_tier2|Убей 3 Праща|Kill 3 Spears
+epoch1_kill_5_tier1|Убей 5 Дубина|Kill 5 Clubs
+epoch1_spawn_2_tier2|Призови 2 Праща|Spawn 2 Spears
+epoch1_spawn_3_tier1|Призови 3 Дубина|Spawn 3 Clubs
+epoch2_damage_1000|Нанеси 1000 урона|Deal 1000 damage
+epoch2_earn_2000_gold|Заработай 2000 золота|Earn 2000 gold
+epoch2_earn_3000_gold|Заработай 3000 золота|Earn 3000 gold
+epoch2_kill_3_tier3|Убей 3 Латник|Kill 3 Knights
+epoch2_kill_5_tier2|Убей 5 Секира|Kill 5 Axes
+epoch2_kill_8_tier1|Убей 8 Мечник|Kill 8 Swordsmen
+epoch2_spawn_3_tier3|Призови 3 Латник|Spawn 3 Knights
+epoch2_spawn_5_tier1|Призови 5 Мечник|Spawn 5 Swordsmen
+epoch3_damage_4000|Нанеси 4000 урона|Deal 4000 damage
+epoch3_earn_15000_gold|Заработай 15000 золота|Earn 15000 gold
+epoch3_earn_20000_gold|Заработай 20000 золота|Earn 20000 gold
+epoch3_kill_10_tier2|Убей 10 Стрелок|Kill 10 Sharpshooters
+epoch3_kill_15_any|Убей 15 врагов|Kill 15 enemies
+epoch3_kill_5_tier3|Убей 5 Пушкарь|Kill 5 Artillerymen
+epoch3_spawn_5_tier3|Призови 5 Пушкарь|Spawn 5 Artillerymen
+epoch3_spawn_7_tier2|Призови 7 Стрелок|Spawn 7 Sharpshooters
+epoch4_damage_12000|Нанеси 12000 урона|Deal 12000 damage
+epoch4_earn_100000_gold|Заработай 100000 золота|Earn 100000 gold
+epoch4_earn_150000_gold|Заработай 150000 золота|Earn 150000 gold
+epoch4_kill_12_tier2|Убей 12 Снайпер|Kill 12 Snipers
+epoch4_kill_20_any|Убей 20 врагов|Kill 20 enemies
+epoch4_kill_7_tier3|Убей 7 Повар|Kill 7 Cooks
+epoch4_spawn_10_tier3|Призови 10 Повар|Spawn 10 Cooks
+epoch4_spawn_8_tier2|Призови 8 Снайпер|Spawn 8 Snipers
